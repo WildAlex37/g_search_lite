@@ -3,11 +3,9 @@ Petit Side Project pour faire un moteur de recommandation de jeux.
 
 #### Update au 8/9/24 :
 - Créer un df clean (un notebook dédié pour avoir une colonne par genre unique en get dummies) - ✔️ (format Parquet)
-- Créer un notebook unique pour la data exploration ✔️ (continuer pour trouver des insights)
-- Créer un notebook pour le ML ✔️
+- Créer un notebook unique pour la data exploration ✔️ (continuer pour trouver des insights) (G_search_lite_exploration.ipynb)
+- Créer un notebook pour le ML ✔️ (G_search_lite_ML.ipynb)
 - Mettre en place le .py avec code Streamlit ⏳
-Au boulot !
-
 
 #### Update 9/9/24 :
 - Travailler sur l'API ⏳
