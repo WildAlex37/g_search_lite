@@ -42,3 +42,7 @@ Vous dire "tiens, ce jeu est pas mal, mais j'aimerais bien jouer à autre chose"
 - Utiliser l'API avec une request redondante (hebdomadaire dans l'idéal) ⏳
 - filtrage des données selon la plateforme en AMONT du ML ✔️
 - Reflexion autour du meilleur train pour le modèle ⏳
+
+#### Update au 01/10/24 : 
+- Ciblage sur consoles PS5 / XBOX Series / Switch (échantillonnage) ⏳
+- Calibrage de l'API ⏳
